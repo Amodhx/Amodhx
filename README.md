@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodhx&label=Profile%20views&color=0e75b6&style=flat" alt="amodhx" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/amodh-nanditha-15b983278/**
+- 📫 How to reach me **amxdhnanditha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
