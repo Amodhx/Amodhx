@@ -2,7 +2,7 @@
 I`m Currently learning in Institute of Software Engineering 
 
 
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fmstudies.org%2F%3Fo%3Dhappy-art-gif-by-scaler-find-share-on-giphy-pp-MpdKwPSD&psig=AOvVaw2TBL9PyuHn0ApQJvsYPzfL&ust=1709462348579000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOido9Sx1YQDFQAAAAAdAAAAABAJ)" alt= "logo" align = "center" >
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amodh Nanditha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am_X_dh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amodh nanditha) 
