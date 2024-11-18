@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishan Tharaka</h1>
+<h1 align="center">Hi 👋, I'm Amodh Nanditha</h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
 </p>
