@@ -12,7 +12,7 @@
 ![About Me](Asserts/abutme.webp)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayawickrma" alt="jayawickrma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amodhx" alt="amodh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
